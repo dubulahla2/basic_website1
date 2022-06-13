@@ -44,6 +44,10 @@ body{
 @media(min-width: 960px){
 body{
     background-color: brown;
+    
+}
+.container{
+    display:flex;
 }
 }   
 .box {
