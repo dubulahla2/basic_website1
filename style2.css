@@ -1,0 +1,66 @@
+body{
+    background-color:whitesmoke;
+   
+}
+
+
+
+.headers{
+    display:flex;
+    
+  
+}
+
+.header{
+    margin: 2em;
+}
+.contents{
+    display:flex;
+
+   
+}
+.content{
+    margin:2em;
+    flex:1 em;
+}
+.center{
+    margin-right: auto;
+
+    
+}
+table, th, td{
+    border: 1px solid black;
+    text-align:left;
+    width: 50%;
+}
+.Places{
+    display:flex;
+    position:relative
+  
+}
+.Place{
+    flex:1;
+    
+   ; 
+}
+.Header{
+   
+    margin-top:50px;
+    margin-bottom:50px;
+    margin-right: auto;
+   
+    
+}
+body{
+    margin-left: 20%;
+    margin-right: 20%
+}
+@media (min-width: 768px){
+    display: flex;
+}
+
+.MakingMargin{
+    margin-bottom: 5%;
+}
+
+
